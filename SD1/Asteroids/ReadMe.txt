@@ -137,6 +137,6 @@ finishing the requirements and having a finished project.
 
 -----Closing-----
 
-If you have any questions or concerns email me at achasedev@gmail.com.
+If you have any questions or concerns email me at amchase@smu.edu.
 
 Thanks!
