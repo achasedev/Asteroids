@@ -134,9 +134,4 @@ In a world full of deadlines, my approach would always have me pushing to the en
 All in all, it is important to keep a balance between making the structure organized and readable, but at the same time
 finishing the requirements and having a finished project.
 
-
------Closing-----
-
-If you have any questions or concerns email me at achasedev@gmail.com.
-
-Thanks!
+Thanks for reading!
